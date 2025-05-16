@@ -1,0 +1,45 @@
+.main_content{
+    align-items: center;
+    display: flex;
+}
+.text_Value1{
+   color: rgba(238, 28, 37, 1);
+    font-size: 18px;
+    line-height: 16px;
+    font-weight: 500;
+    font-size: 18px;
+} 
+.main_content h1{
+    color: #ffffff;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+
+}
+.main_content p{
+    color: #ffffff;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 22px;
+    
+}
+section{
+    background-color: #012169;
+    padding: 83px 45px 83px 45px;
+    border-radius: 40px;
+
+}
+
+button{
+    border-width: 1px;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: none;
+    letter-spacing: 0em;
+    background-color: #EE1C25;
+    color: #ffffff;
+    border-radius: 40px;
+
+}
