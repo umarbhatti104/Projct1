@@ -1,6 +1,12 @@
 .main_content{
+    padding: 83px 45px 83px 45px;
     text-align: center;
+    background: #012169 url(../png-transparent-two-checked-flags-racing-flags-auto-racing-racing-flag-miscellaneous-game-flag-png-free-download__1_-removebg-preview.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 
 .text_value1{
    color: rgba(238, 28, 37, 1);
@@ -24,9 +30,8 @@
     
 }
 section{
-    background-color: #012169;
-    padding: 83px 45px 83px 45px;
     border-radius: 40px;
+    overflow: hidden;
 }
 
 .button{
