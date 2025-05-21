@@ -1,0 +1,67 @@
+.aboutpage{
+    padding: 83px 45px 83px 45px;
+    text-align: center;
+    background: url('https://attc.nsw.edu.au/wp-content/uploads/2025/05/23f765860496f581f22afbe8643afe8b4561a5ae.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px;
+    overflow: hidden;
+}
+.content{
+    text-align:center;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 44px; 
+    line-height: 66px; 
+    font-weight: 600;
+}
+.main-content{
+    align-items: center;
+    display: flex; 
+    gap: 50PX;
+}
+.skill-image{
+    width: 37%;
+}
+.skills{
+    width: 63%;
+}
+
+.text-image{
+    color: rgba(1, 33, 105, 1)
+
+}
+.skills p{
+       color: #5B5B5B ;
+    font-size: 22px ;
+    line-height: 38px ;
+    font-weight: 400 ;
+}
+.button{
+
+    color: rgba(238, 28, 37, 1);
+    font-size: 18px;
+    line-height: 16px;
+    font-weight: 500;
+    width: fit-content;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: rgba(238, 28, 37, 0.1);
+    display: inline-block;
+    text-decoration: none;
+    padding: 8px 23px 8px 23px;
+
+}
+
+.skill-image img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.skills-sec{
+    padding: 50px 0;
+}
+.different_text{
+    color: red;
+}
